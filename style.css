@@ -1,6 +1,7 @@
 body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', Arial, sans-serif;
-    background-image: url("C:\Users\anupa\Desktop\Code\web\BlackJack-Game\wp.jpg");
+    background-color: #016f32;
+    /* background-image: url("C:\Users\anupa\Desktop\Code\web\BlackJack-Game\wp.jpg");  */
     background-size: cover;
     font-weight: bold;
     color: white;
